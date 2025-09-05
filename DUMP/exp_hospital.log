@@ -1,0 +1,39 @@
+;;; 
+Export: Release 21.0.0.0.0 - Production on 금 9월 5 18:42:15 2025
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+;;; 
+접속 대상: Oracle Database 21c Express Edition Release 21.0.0.0.0 - Production
+"HOSPITAL"."SYS_EXPORT_SCHEMA_01" 시작 중: HOSPITAL/********@localhost:1521/XEPDB1 DIRECTORY=DP_DIR DUMPFILE=hospital.dmp LOGFILE=exp_hospital.log SCHEMAS=HOSPITAL 
+객체 유형 SCHEMA_EXPORT/TABLE/TABLE_DATA 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/INDEX_STATISTICS 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/FUNCTIONAL_INDEX/INDEX_STATISTICS 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/STATISTICS/TABLE_STATISTICS 처리 중
+객체 유형 SCHEMA_EXPORT/STATISTICS/MARKER 처리 중
+객체 유형 SCHEMA_EXPORT/PRE_SCHEMA/PROCACT_SCHEMA 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/TABLE 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/COMMENT 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/IDENTITY_COLUMN 처리 중
+객체 유형 SCHEMA_EXPORT/FUNCTION/FUNCTION 처리 중
+객체 유형 SCHEMA_EXPORT/PROCEDURE/PROCEDURE 처리 중
+객체 유형 SCHEMA_EXPORT/FUNCTION/ALTER_FUNCTION 처리 중
+객체 유형 SCHEMA_EXPORT/PROCEDURE/ALTER_PROCEDURE 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/INDEX/INDEX 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/INDEX/FUNCTIONAL_INDEX/INDEX 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/CONSTRAINT/CONSTRAINT 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/CONSTRAINT/REF_CONSTRAINT 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/TRIGGER 처리 중
+. . "HOSPITAL"."PATIENT_EVENT"                  51.74 KB     973행이 엑스포트됨
+. . "HOSPITAL"."PATIENT_HISTORY"                48.36 KB     500행이 엑스포트됨
+. . "HOSPITAL"."APPOINTMENT"                     30.5 KB     600행이 엑스포트됨
+. . "HOSPITAL"."PATIENT"                        33.96 KB     500행이 엑스포트됨
+. . "HOSPITAL"."ENCOUNTER"                      30.82 KB     500행이 엑스포트됨
+. . "HOSPITAL"."PROVIDER"                       6.320 KB      12행이 엑스포트됨
+. . "HOSPITAL"."DEPARTMENT"                     5.539 KB       3행이 엑스포트됨
+마스터 테이블 "HOSPITAL"."SYS_EXPORT_SCHEMA_01"이(가) 성공적으로 로드됨/로드 취소됨
+******************************************************************************
+HOSPITAL.SYS_EXPORT_SCHEMA_01에 대해 설정된 덤프 파일:
+  C:\DBDUMP\HOSPITAL.DMP
+"HOSPITAL"."SYS_EXPORT_SCHEMA_01" 작업이 금 9월 5 18:42:50 2025 elapsed 0 00:00:34에서 성공적으로 완료됨
+
