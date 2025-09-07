@@ -43,7 +43,7 @@
    - TEST 폴더에 각 기능별 SQL 스크립트 작성 (트리거 동작 검증, 예외 처리 테스트, 인덱스 성능 비교 등)
 
 ### 🗂️ 프로젝트 구조
-<img width="355" height="489" alt="프로젝트 구조2" src="https://github.com/user-attachments/assets/9587d96f-2b95-46bd-9bab-433567b1af03" />
+<img width="308" height="495" alt="프로젝트 구조3" src="https://github.com/user-attachments/assets/0ecff1c0-e562-4346-99ac-ef21e82959fc" />
 
 ### ⚙️ 개발 환경
 - **DBMS**: Oracle XE 21c  
